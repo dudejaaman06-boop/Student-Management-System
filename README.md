@@ -1,5 +1,4 @@
 # Student-Management-System
-# Student Management System (Python)
 
 A simple Python-based Student Management System to manage student records.
 
